@@ -1,4 +1,4 @@
-# You will How-to-Fix-Your-Windows-License-Supports-Only-One-Display-Language-on-Windows
+# How-to-Fix-Your-Windows-License-Supports-Only-One-Display-Language-on-Windows
 
 This solution is %100 working, you will able to click "download" or "view raw".
 
